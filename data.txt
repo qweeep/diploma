@@ -1,0 +1,4 @@
+Bezrabotica
+VRP
+Амурская область
+/far_east/Amur_region/
